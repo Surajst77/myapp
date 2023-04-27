@@ -6,5 +6,5 @@ from one page to another and vice versa
 i have used JSONPlaceholder api tester 
 to work with this project. In this project
 when i click on particular title of the
-post or apiit takes me to the body of
+post or api, it takes me to the body of
 that api or title
